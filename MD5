@@ -1,0 +1,10 @@
+2f81bf42b5fa348ada1a935a6d0535f4 *DESCRIPTION
+d41d8cd98f00b204e9800998ecf8427e *NAMESPACE
+d4a0b43d247f72523f2d4b86955bd4c4 *R/wrspathrowData-package.R
+d3a9f021fd541a8b0d0d687143509b44 *README.md
+9d17efd7af88273327fb774ccee7ccde *data/datalist
+e9766b935f804ae02a63a49ee097e294 *data/wrs1_asc_desc.RData
+9fe6f4c6604105ad141b93c4c1a70bd4 *data/wrs2_asc_desc.RData
+cdbad154c3bde80a61f7c5885b4c6bb2 *man/wrs1_asc_desc.Rd
+f6a7962e409485d7fec52db48452e33d *man/wrs2_asc_desc.Rd
+f8a3f6c448c992153ae953f28f0c4bb1 *man/wrspathrowData.Rd
